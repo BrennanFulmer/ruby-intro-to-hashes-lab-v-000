@@ -4,7 +4,6 @@ end
 
 def actor
   {name: "Dwayne The Rock Johnson"}
-  [:name]).to eq()
 end
 
 def monopoly
