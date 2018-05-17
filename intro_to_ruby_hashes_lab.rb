@@ -3,6 +3,7 @@ def new_hash
 end
 
 def actor
+  {name: 
   [:name]).to eq("Dwayne The Rock Johnson")
 end
 
