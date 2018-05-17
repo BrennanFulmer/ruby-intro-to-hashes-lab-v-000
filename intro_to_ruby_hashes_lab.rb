@@ -3,8 +3,8 @@ def new_hash
 end
 
 def actor
-  {name: 
-  [:name]).to eq("Dwayne The Rock Johnson")
+  {name: "Dwayne The Rock Johnson"}
+  [:name]).to eq()
 end
 
 def monopoly
